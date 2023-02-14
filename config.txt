@@ -1,3 +1,7 @@
 name = yui
 size = 10
+
 wibu number 123
+
+wibu number 21
+
